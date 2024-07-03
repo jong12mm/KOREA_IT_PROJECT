@@ -1,0 +1,10 @@
+C:\EMB_WEB\C#\INIT\bin\Debug\INIT.exe.config
+C:\EMB_WEB\C#\INIT\bin\Debug\INIT.exe
+C:\EMB_WEB\C#\INIT\bin\Debug\INIT.pdb
+C:\EMB_WEB\C#\INIT\obj\Debug\INIT.csproj.AssemblyReference.cache
+C:\EMB_WEB\C#\INIT\obj\Debug\INIT.Properties.Resources.resources
+C:\EMB_WEB\C#\INIT\obj\Debug\INIT.csproj.GenerateResource.cache
+C:\EMB_WEB\C#\INIT\obj\Debug\INIT.csproj.CoreCompileInputs.cache
+C:\EMB_WEB\C#\INIT\obj\Debug\INIT.exe
+C:\EMB_WEB\C#\INIT\obj\Debug\INIT.pdb
+C:\EMB_WEB\C#\INIT\obj\Debug\INIT.Form1.resources
